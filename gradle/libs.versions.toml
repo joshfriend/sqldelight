@@ -1,4 +1,6 @@
 [versions]
+# Minimum supported Gradle version for the SQLDelight Gradle plugin.
+minGradle = "8.2.1"
 kotlin = "2.3.10"
 dokka = "2.2.0"
 kotlinx-coroutines = "1.11.0"
